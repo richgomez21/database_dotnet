@@ -1309,11 +1309,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\003047036\\Desktop\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
       "projectName": "StudentSystem",
-      "projectPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
+      "projectPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
       "packagesPath": "C:\\Users\\003047036\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\console_apps\\StudentSystem\\obj\\",
+      "outputPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

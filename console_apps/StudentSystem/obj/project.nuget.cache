@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dITGa64wTXYTWHy0ZaqD969a6DZpPcMOIn8I7fW+WDGBg27cFpkInZ8J/6Mdlcd/pcUl1PYV3eBNtxgLCx/6eA==",
+  "dgSpecHash": "gXzvekqK0vK8B1K3awPJoXSrYiIv7jQs7Bj1LdI/Z1SjEUJUGzXrB4AhVPu6rz6I9xKxeE/9VGHKmcF9v/nOKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
+  "projectFilePath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\003047036\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\003047036\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj": {}
+    "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\InterfaceExample\\InterfaceExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj": {
+    "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\InterfaceExample\\InterfaceExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
-        "projectName": "StudentSystem",
-        "projectPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\StudentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\InterfaceExample\\InterfaceExample.csproj",
+        "projectName": "InterfaceExample",
+        "projectPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\InterfaceExample\\InterfaceExample.csproj",
         "packagesPath": "C:\\Users\\003047036\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\StudentSystem\\obj\\",
+        "outputPath": "C:\\Users\\003047036\\Desktop\\database_dotnet\\database_dotnet\\console_apps\\InterfaceExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,24 +42,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
