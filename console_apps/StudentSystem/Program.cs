@@ -50,9 +50,16 @@ Console.WriteLine("---------------");
 var instructorInDept = _basicDBService.GetInstructorsInDepartment("History");
 
 foreach(string instructor in instructorInDept){
+    Console.WriteLine("INSTRUCTOR IN DEPT");
+    Console.WriteLine(instructor);
+}
+Console.WriteLine("---------------");
+var courseByInstructor = _basicDBService.GetCoursesByInstructor("Brown");
+foreach(string instructor in courseByInstructor){
     Console.WriteLine(instructor);
 }
 
+Console.WriteLine("---------------");
 
 /*
     DATABASE SERVICE START

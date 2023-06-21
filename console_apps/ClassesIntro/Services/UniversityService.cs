@@ -41,7 +41,7 @@ public class UniversityService{
     public string GetDepartmentWithMostCourses(){
         List<string> deptWithMostCourses = new List<string>();
         deptWithMostCourses = this._university.Departments.Select
-        return Null
+        return Null;
     }
 
     public List<string> GetDepartmentsWithMoreThanTwoCourses(){
@@ -56,6 +56,6 @@ public class UniversityService{
 
     public List<string> GetInstructorsTeachingMultipleCourses(){
         return _university.Departments.SelectMany(department => department.Courses)
-                                      .GroupBy()
+                                      .GroupBy();
     }
 }
