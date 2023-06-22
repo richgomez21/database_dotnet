@@ -1,4 +1,7 @@
 public class Car : IVehicle {
+
+   public string Name {get; set;}
+
    public void StartEngine(){
 
    }
@@ -6,6 +9,12 @@ public class Car : IVehicle {
 
    }
    public void Drive(){
+    
+   }
+   public void TurnLeft(){
+    
+   }
+   public void TurnRight(){
     
    }
 }

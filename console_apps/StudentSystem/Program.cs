@@ -129,6 +129,46 @@ Console.WriteLine("---------------");
 Console.WriteLine(instr.LastName);
 Console.WriteLine(instr.Department.DeptName);
 
+// _dbService.UpdateStudentName(4,"DANIEL", "DEEZINGTON");
+
+_dbService.UpdateStudentName(5,"BOBBY", "DEEZINGTON");
+
+var result = await _dbService.GetAllCoursesWithStudents();
+
+Console.WriteLine("COURSES::::::::::::::::::");
+foreach(Course elem in result){
+    Console.WriteLine(elem.CourseName);
+}
+
+var coursesList = await _dbService.GetAllCoursesWithStudents();
+
+Student newStudent = new Student {
+                            FirstName = "Les",
+                            LastName = "Stroud",
+                            JoiningDate = DateTime.Now,
+                            Courses = coursesList
+                        };
+
+// await _dbService.AddStudent(newStudent);
+
+// await _dbService.DeleteStudent(6);
+
+var testStudent = await _dbService.GetStudentById(4);
+Console.WriteLine("STUDENT LIST BEFORE:");
+foreach(var course in testStudent.Courses){
+    Console.WriteLine(course.CourseName);
+}
+
+
+await _dbService.EnrollStudentInCourse(4, 2);
+
+Console.WriteLine("STUDENT LIST AFTER:");
+foreach(var course in testStudent.Courses){
+    Console.WriteLine(course.CourseName);
+}
+
+
+
 
 
 
