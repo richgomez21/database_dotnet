@@ -1,0 +1,15 @@
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.csproj.AssemblyReference.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.AssemblyInfoInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.AssemblyInfo.cs
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.csproj.CoreCompileInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\bin\Debug\net7.0\InterfaceExercises.exe
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\bin\Debug\net7.0\InterfaceExercises.deps.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\bin\Debug\net7.0\InterfaceExercises.runtimeconfig.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\bin\Debug\net7.0\InterfaceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\bin\Debug\net7.0\InterfaceExercises.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\refint\InterfaceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\InterfaceExercises.genruntimeconfig.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\obj\Debug\net7.0\ref\InterfaceExercises.dll

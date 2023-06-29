@@ -2,8 +2,12 @@ public class Car : IVehicle {
 
    public string Name {get; set;}
 
-   public void StartEngine(){
+   public Car(string name){
+      this.Name = name;
+   }
 
+   public void StartEngine(){
+      Console.WriteLine("CAR START ENGINE()");
    }
    public void StopEngine(){
 
