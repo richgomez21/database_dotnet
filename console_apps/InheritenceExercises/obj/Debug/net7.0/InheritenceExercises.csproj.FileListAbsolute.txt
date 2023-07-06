@@ -1,0 +1,15 @@
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.csproj.AssemblyReference.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.AssemblyInfoInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.AssemblyInfo.cs
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.csproj.CoreCompileInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\bin\Debug\net7.0\InheritenceExercises.exe
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\bin\Debug\net7.0\InheritenceExercises.deps.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\bin\Debug\net7.0\InheritenceExercises.runtimeconfig.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\bin\Debug\net7.0\InheritenceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\bin\Debug\net7.0\InheritenceExercises.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\refint\InheritenceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\InheritenceExercises.genruntimeconfig.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\InheritenceExercises\obj\Debug\net7.0\ref\InheritenceExercises.dll
