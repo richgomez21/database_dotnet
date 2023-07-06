@@ -18,3 +18,4 @@ Console.WriteLine("====================================================");
 
 Employee bob = new Employee();
 double tax = bob.DeductTax(.6);
+
