@@ -38,11 +38,11 @@ public class UniversityService{
           return departmentNames;
     }
 
-    public string GetDepartmentWithMostCourses(){
-        List<string> deptWithMostCourses = new List<string>();
-        deptWithMostCourses = this._university.Departments.Select
-        return Null;
-    }
+    // public string GetDepartmentWithMostCourses(){
+    //     List<string> deptWithMostCourses = new List<string>();
+    //     deptWithMostCourses = this._university.Departments.Select
+    //     return Null;
+    // }
 
     public List<string> GetDepartmentsWithMoreThanTwoCourses(){
         List<string> deptNames = new List<string>();
@@ -54,8 +54,8 @@ public class UniversityService{
           return deptNames;
     }
 
-    public List<string> GetInstructorsTeachingMultipleCourses(){
-        return _university.Departments.SelectMany(department => department.Courses)
-                                      .GroupBy();
-    }
+    // public List<string> GetInstructorsTeachingMultipleCourses(){
+    //     return _university.Departments.SelectMany(department => department.Courses)
+    //                                   .GroupBy();
+    // }
 }

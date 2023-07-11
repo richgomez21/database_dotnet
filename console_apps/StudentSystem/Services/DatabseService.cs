@@ -28,5 +28,62 @@ public class DatabaseService{
                             .SingleOrDefaultAsync(instr => instr.Id == id);
     }
 
+    public async Task<List<Course>> GetAllCoursesWithStudents(){
+
+        return await _context.Courses.Include(course => course.Students)
+                                    .ToListAsync();
+    }
+
+    public async void AddStudent(Student student){
+        _context.Add(student);
+
+        await _context.SaveChangesAsync();
+    }
+
+    public async Task UpdateStudentName(int studentId, string newFirstName, string newLastName){
+        //find the student
+        var student = await _context.Students.FindAsync(studentId);
+        //update the name
+        student.FirstName = newFirstName;
+        student.LastName = newLastName;
+        //save the changes
+        await _context.SaveChangesAsync();
+    }
+
+    public async Task DeleteStudent(int studentId){
+        //find the student
+        var student = await _context.Students
+                                    .SingleOrDefaultAsync(stud => stud.Id == studentId);
+
+        //if the student was found, then delete
+        if(student != null){
+            //then a student was found
+            _context.Students.Remove(student);
+
+            //save the changes
+            await _context.SaveChangesAsync();
+        }
+        
+    }
+
+    public async Task EnrollStudentInCourse(int studentId, int courseId){
+        //get student & course 
+        //update models
+        //save changes
+
+        var student = await _context.Students
+                                    .SingleOrDefaultAsync(stud => stud.Id == studentId);
+        var course = await _context.Courses
+                                    .Include(course => course.Students)
+                                    .SingleOrDefaultAsync(course => course.Id == courseId);
+
+        if(student != null && course != null){
+            // add student to course
+            course.Students.Add(student);
+
+            await _context.SaveChangesAsync();
+        }
+    }
+
 
 }
