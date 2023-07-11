@@ -52,7 +52,7 @@ public class BasicQueryService{
     }                  
 
     public List<string> GetCoursesByInstructor(string instructorName){
-        return _context.Instructors.Where(instr => instr.instructorName == instructorName)
+        return _context.Instructors.Where(instr => instr. == instructorName)
                                     .Select(instr => instr.Courses)
                                     .ToList();
     }
