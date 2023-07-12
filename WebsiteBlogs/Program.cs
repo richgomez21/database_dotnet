@@ -62,7 +62,7 @@ Console.WriteLine("====================== NUMBER 3 BEGIN ======================"
         LastName = "User",
         Email = "new@example.com"
     };
-        var newUser = await _dbservice.AddUser(DBlock);
+        // var newUser = await _dbservice.AddUser(DBlock);
     
 Console.WriteLine("====================== NUMBER 3 END ======================");
 

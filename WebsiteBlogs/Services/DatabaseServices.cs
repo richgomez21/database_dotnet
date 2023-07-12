@@ -42,4 +42,9 @@ public class DatabaseServices : IDatabaseService
 
         await _context.SaveChangesAsync();
     }
+
+    Task IDatabaseService.AddUser(User user)
+    {
+        throw new NotImplementedException();
+    }
 }
