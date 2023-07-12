@@ -8,6 +8,6 @@ public class Student : IPrintable{
     public string Major {get; set;}
 
     public string PrintDetails(){
-        return ($"Book:{Name}, Age:{Age}, Major:{Major}");
+        return ($"Name:{Name}, Age:{Age}, Major:{Major}");
     }
 }

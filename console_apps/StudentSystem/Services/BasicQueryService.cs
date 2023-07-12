@@ -52,9 +52,14 @@ public class BasicQueryService{
     }                  
 
     public List<string> GetCoursesByInstructor(string instructorName){
+<<<<<<< HEAD
+        return _context.Instructors.Where(instr => instr. == instructorName)
+                                    .Select(instr => instr.Courses)
+=======
         return _context.Instructors.Where(instr => instr.FirstName == instructorName)
                                     .SelectMany(instr => instr.Courses)
                                     .Select(instr => instr.CourseName)
+>>>>>>> 6200851c95a1d10359ff7d1ed06dbb8299fdb7df
                                     .ToList();
     }
 

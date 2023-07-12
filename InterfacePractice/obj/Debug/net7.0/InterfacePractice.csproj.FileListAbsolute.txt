@@ -1,0 +1,15 @@
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\bin\Debug\net7.0\InterfacePractice.exe
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\bin\Debug\net7.0\InterfacePractice.deps.json
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\bin\Debug\net7.0\InterfacePractice.runtimeconfig.json
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\bin\Debug\net7.0\InterfacePractice.dll
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\bin\Debug\net7.0\InterfacePractice.pdb
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.csproj.AssemblyReference.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.AssemblyInfo.cs
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.dll
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\refint\InterfacePractice.dll
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.pdb
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\InterfacePractice.genruntimeconfig.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfacePractice\obj\Debug\net7.0\ref\InterfacePractice.dll
