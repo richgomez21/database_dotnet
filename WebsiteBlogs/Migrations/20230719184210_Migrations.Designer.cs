@@ -11,7 +11,7 @@ using WebsiteBlogs.Data;
 namespace WebsiteBlogs.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230712184122_Migrations")]
+    [Migration("20230719184210_Migrations")]
     partial class Migrations
     {
         /// <inheritdoc />
@@ -126,7 +126,7 @@ namespace WebsiteBlogs.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("BlogId")
+                    b.Property<int?>("BlogId")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Email")
@@ -192,9 +192,7 @@ namespace WebsiteBlogs.Migrations
                 {
                     b.HasOne("WebsiteBlogs.Models.Blog", "Blog")
                         .WithOne("Owner")
-                        .HasForeignKey("WebsiteBlogs.Models.User", "BlogId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("WebsiteBlogs.Models.User", "BlogId");
 
                     b.Navigation("Blog");
                 });

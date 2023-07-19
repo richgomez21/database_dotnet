@@ -10,7 +10,7 @@ public class User{
     public string LastName {get; set;}
     public string Email {get; set;}
     [ForeignKey("Blog")]
-    public int BlogId {get; set;}
+    public int? BlogId {get; set;}
     public Blog? Blog {get; set;}
     public List<Comment>? Comments {get; set;}
 

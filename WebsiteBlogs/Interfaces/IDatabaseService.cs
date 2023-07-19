@@ -22,26 +22,26 @@ public interface IDatabaseService
     Task AddUser(User user);
 
     // // This method should update an existing user in the database.
-    // Task UpdateUser(User user);
+    Task UpdateUser(int userId, string newFirstName);
 
     // // This method should delete a user with the specified id from the database.
-    // Task DeleteUser(int id);
+    Task DeleteUser(int id);
 
     // // This method should create a new blog in the database.
-    // Task AddBlog(Blog blog);
+    Task AddBlog(Blog blog);
 
     // // This method should update an existing blog in the database.
-    // Task UpdateBlog(Blog blog);
+    Task UpdateBlog(int blogId, string blogName);
 
     // // This method should delete a blog with the specified id from the database.
-    // Task DeleteBlog(int id);
+    Task DeleteBlog(int id);
 
     // // This method should create a new post in the database.
-    // Task AddPost(Post post);
+    Task AddPost(Post post);
 
     // // This method should update an existing post in the database.
-    // Task UpdatePost(Post post);
+    Task UpdatePost(int postId, string title);
 
     // // This method should delete a post with the specified id from the database.
-    // Task DeletePost(int id);
+    Task DeletePost(int id);
 }
