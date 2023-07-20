@@ -1,0 +1,15 @@
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\bin\Debug\net7.0\StaticExamples.exe
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\bin\Debug\net7.0\StaticExamples.deps.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\bin\Debug\net7.0\StaticExamples.runtimeconfig.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\bin\Debug\net7.0\StaticExamples.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\bin\Debug\net7.0\StaticExamples.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.csproj.AssemblyReference.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.AssemblyInfoInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.AssemblyInfo.cs
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.csproj.CoreCompileInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\refint\StaticExamples.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\StaticExamples.genruntimeconfig.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\StaticExamples\obj\Debug\net7.0\ref\StaticExamples.dll
