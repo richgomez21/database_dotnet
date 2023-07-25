@@ -1,0 +1,15 @@
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.csproj.AssemblyReference.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.AssemblyInfoInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.AssemblyInfo.cs
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.csproj.CoreCompileInputs.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\bin\Debug\net7.0\MoreInheritanceExercises.exe
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\bin\Debug\net7.0\MoreInheritanceExercises.deps.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\bin\Debug\net7.0\MoreInheritanceExercises.runtimeconfig.json
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\bin\Debug\net7.0\MoreInheritanceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\bin\Debug\net7.0\MoreInheritanceExercises.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\refint\MoreInheritanceExercises.dll
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.pdb
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\MoreInheritanceExercises.genruntimeconfig.cache
+C:\Users\003047036\Desktop\database_dotnet\database_dotnet\console_apps\MoreInheritanceExercises\obj\Debug\net7.0\ref\MoreInheritanceExercises.dll
