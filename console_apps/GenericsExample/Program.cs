@@ -8,3 +8,13 @@ System.Console.WriteLine($"BoxB: {boxB.GetItem()} and {boxB.DisplayType()}");
 
 System.Console.WriteLine($"boxC.itemA: {boxC.ItemA}");
 
+// Console.WriteLine("===========================");
+// Box<double>
+
+string firstWord = "hello";
+string secondWord = "world";
+
+int firstNum = 8;
+int secondNum = 12;
+
+Console.WriteLine(firstNum.CompareTo(secondNum));
