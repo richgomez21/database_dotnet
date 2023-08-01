@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InterfaceExercises
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\InterfaceExercises\
+=======
+build_property.ProjectDir = c:\Users\003047036\Desktop\database_dotnet\database_dotnet\InterfaceExercises\
+>>>>>>> 9ad52fbf7468391119d77c1e288fd93211327c1f
