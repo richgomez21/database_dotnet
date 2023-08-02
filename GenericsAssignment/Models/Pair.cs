@@ -1,9 +1,20 @@
-
 public class Pair<T, U>{
+    public T First;
+    public U Second;
 
-    public T ItemA {get; set;}
+    public void SetValueT(T item){
+        this.First = item;
+    }
 
-     public U ItemB {get; set;}
+    public T GetValueT(){
+        return this.First;
+    }
 
-     
+    public void SetValueU(U item){
+        this.Second = item;
+    }
+
+    public U GetValueU(){
+        return this.Second;
+    }
 }

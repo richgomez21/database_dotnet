@@ -1,11 +1,18 @@
+public class Box<T>{
+    public T Value;
 
-private class Box<T>{
-    private T item {get; set;}
-
-    public T Thing {get; set;}
-
-     public Box(T item, T thing){
-        this.item = item;
-        this.Thing = thing;
+    public void SetValue(T item){
+        this.Value = item;
     }
+
+    public T GetValue(){
+        return this.Value;
+    }
+
+    public void Swap(Box<T> sumBox){
+        T temp = this.Value;
+        this.Value = sumBox.Value;
+        sumBox.Value = temp;
+    }
+
 }

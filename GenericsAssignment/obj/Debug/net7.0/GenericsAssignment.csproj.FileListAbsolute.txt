@@ -1,0 +1,15 @@
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.csproj.AssemblyReference.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.AssemblyInfoInputs.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.AssemblyInfo.cs
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\bin\Debug\net7.0\GenericsAssignment.exe
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\bin\Debug\net7.0\GenericsAssignment.deps.json
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\bin\Debug\net7.0\GenericsAssignment.runtimeconfig.json
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\bin\Debug\net7.0\GenericsAssignment.dll
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\bin\Debug\net7.0\GenericsAssignment.pdb
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.dll
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\refint\GenericsAssignment.dll
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.pdb
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\GenericsAssignment.genruntimeconfig.cache
+C:\Users\Richard Gomez\OneDrive\Desktop\database_dotnet\database_dotnet\GenericsAssignment\obj\Debug\net7.0\ref\GenericsAssignment.dll
